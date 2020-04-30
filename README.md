@@ -1,5 +1,5 @@
 # LEt-SNE: A Hybrid Approach To Data Embedding And Visualization of Hyperspectral Bands In Satellite Imagery
-Published in the 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020.
+Published in the 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020.<br>
 Authors:
 - Megh Shukla, Machine Learning Engineer, MBUX Intelligent Interior, Mercedes-Benz Research and Development India
 - Biplab Banerjee, Assistant Professor, Centre of Studies in Resources Engineering, Indian Institute of Technology Bombay
@@ -26,14 +26,14 @@ The repository contains files that can be used to reproduce the results in the p
 To experiment with the algorithm, we recommend opening the notebook with Google Colab. 
 Upload the files: Dataset.rar as well as LEt-SNE_requirements.txt in Colab, and run the notebook cells.
 
-To choose a dataset for experimenting, a small change needs to be made in two lines, where ```<dataset>``` is {salinas, indian_pines, pavia`}:
+To choose a dataset for experimenting, a small change needs to be made in two function calls, where ```<dataset>``` is {salinas, indian_pines, pavia}:
 ```
 load_data(<dataset> = True)
 segment_image(<dataset> = True)
 ```
 
 To switch between different modes of operation, assign them to be True. Eg: MANIFOLD = True, SEGMENTATION = True or LABEL = True.
-Ensure not to assign exactly one of them to be True.
+Ensure to assign exactly one of them to be True.
 The training / testing split ratio can be changed with the global constant ```TRAIN_SPLIT = 0.5```.
 Other settings/hyperparameter choices are described in the notebook.
 
