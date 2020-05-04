@@ -5,7 +5,7 @@ DOI (Code Ocean): https://doi.org/10.24433/CO.7476989.v1<br>
 
 
 Authors:
-- [Megh Shukla](www.linkedin.com/in/megh-shukla), Machine Learning Engineer, MBUX Intelligent Interior, Mercedes-Benz Research and Development India
+- [Megh Shukla](https://linkedin.com/in/megh-shukla), Machine Learning Engineer, MBUX Intelligent Interior, Mercedes-Benz Research and Development India
 - [Biplab Banerjee](https://biplab-banerjee.github.io/index.html), Assistant Professor, Centre of Studies in Resources Engineering, Indian Institute of Technology Bombay
 - [Krishna Mohan Buddhiraju](http://www.csre.iitb.ac.in/bkmohan/), Professor, Centre of Studies in Resources Engineering, Indian Institute of Technology Bombay
 
