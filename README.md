@@ -1,9 +1,13 @@
 # LEt-SNE: A Hybrid Approach To Data Embedding And Visualization of Hyperspectral Bands In Satellite Imagery
 Published in the 45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020.<br>
+DOI (ICASSP Publication):  https://doi.org/10.1109/ICASSP40776.2020.9053924<br>
+DOI (Code Ocean): https://doi.org/10.24433/CO.7476989.v1<br>
+
+
 Authors:
-- Megh Shukla, Machine Learning Engineer, MBUX Intelligent Interior, Mercedes-Benz Research and Development India
-- Biplab Banerjee, Assistant Professor, Centre of Studies in Resources Engineering, Indian Institute of Technology Bombay
-- Krishna Mohan Buddhiraju, Professor, Centre of Studies in Resources Engineering, Indian Institute of Technology Bombay
+- [Megh Shukla](www.linkedin.com/in/megh-shukla), Machine Learning Engineer, MBUX Intelligent Interior, Mercedes-Benz Research and Development India
+- [Biplab Banerjee](https://biplab-banerjee.github.io/index.html), Assistant Professor, Centre of Studies in Resources Engineering, Indian Institute of Technology Bombay
+- [Krishna Mohan Buddhiraju](http://www.csre.iitb.ac.in/bkmohan/), Professor, Centre of Studies in Resources Engineering, Indian Institute of Technology Bombay
 
 This repository contains the code needed to reproduce the experiment results in the published paper.
 In this paper, we attempt to address the **curse of dimensionality**, a phenomenon plaguing high dimensional datasets.
