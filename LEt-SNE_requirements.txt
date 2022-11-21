@@ -1,6 +1,6 @@
 notebook
 tensorflow==1.13.2
-tensorflow-gpu==1.13.2
+tensorflow-gpu==2.9.3
 umap-learn == 0.3.10
 scikit-learn==0.20.3
 scipy==1.2.1
